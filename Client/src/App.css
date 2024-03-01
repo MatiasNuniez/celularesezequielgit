@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.Login{
+  width: 50%;
+  height: auto;
+  margin: auto;
+  justify-content: space-between;
+}
+
+#img-login{
+  border-radius: 20px;
+}
+
+.contentIndex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.contentIndex a{
+  text-decoration: none;
+}
+
+nav{
+  margin-bottom: 15px;
+}
+
+.top{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.form-modal{
+  display: flex;
+  flex-direction: column;
+}
+
+.form-modal input{
+  margin-bottom: 10px;
+}
